@@ -1,0 +1,14 @@
+C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.BLL\bin\Debug\netstandard2.0\FabricaDelicias.BLL.deps.json
+C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.BLL\bin\Debug\netstandard2.0\FabricaDelicias.BLL.dll
+C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.BLL\bin\Debug\netstandard2.0\FabricaDelicias.BLL.pdb
+C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.BLL\bin\Debug\netstandard2.0\FabricaDelicias.DAL.dll
+C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.BLL\bin\Debug\netstandard2.0\FabricaDelicias.Models.dll
+C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.BLL\bin\Debug\netstandard2.0\FabricaDelicias.DAL.pdb
+C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.BLL\bin\Debug\netstandard2.0\FabricaDelicias.Models.pdb
+C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.BLL\obj\Debug\netstandard2.0\FabricaDelicias.BLL.csprojAssemblyReference.cache
+C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.BLL\obj\Debug\netstandard2.0\FabricaDelicias.BLL.AssemblyInfoInputs.cache
+C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.BLL\obj\Debug\netstandard2.0\FabricaDelicias.BLL.AssemblyInfo.cs
+C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.BLL\obj\Debug\netstandard2.0\FabricaDelicias.BLL.csproj.CoreCompileInputs.cache
+C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.BLL\obj\Debug\netstandard2.0\FabricaDelicias.BLL.csproj.CopyComplete
+C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.BLL\obj\Debug\netstandard2.0\FabricaDelicias.BLL.dll
+C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.BLL\obj\Debug\netstandard2.0\FabricaDelicias.BLL.pdb
