@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FabricaDelicias.DAL\FabricaDelicias.DAL.csproj" />
+    <ProjectReference Include="..\FabricaDelicias.Models\FabricaDelicias.Models.csproj" />
+  </ItemGroup>
+
+</Project>
