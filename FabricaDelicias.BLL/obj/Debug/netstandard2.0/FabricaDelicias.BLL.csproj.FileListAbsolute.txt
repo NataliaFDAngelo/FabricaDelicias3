@@ -8,7 +8,7 @@ C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.BLL\bin\Debug\netst
 C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.BLL\obj\Debug\netstandard2.0\FabricaDelicias.BLL.csprojAssemblyReference.cache
 C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.BLL\obj\Debug\netstandard2.0\FabricaDelicias.BLL.AssemblyInfoInputs.cache
 C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.BLL\obj\Debug\netstandard2.0\FabricaDelicias.BLL.AssemblyInfo.cs
-C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.BLL\obj\Debug\netstandard2.0\FabricaDelicias.BLL.csproj.CoreCompileInputs.cache
 C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.BLL\obj\Debug\netstandard2.0\FabricaDelicias.BLL.csproj.CopyComplete
 C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.BLL\obj\Debug\netstandard2.0\FabricaDelicias.BLL.dll
 C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.BLL\obj\Debug\netstandard2.0\FabricaDelicias.BLL.pdb
+C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.BLL\obj\Debug\netstandard2.0\FabricaDelicias.BLL.csproj.CoreCompileInputs.cache

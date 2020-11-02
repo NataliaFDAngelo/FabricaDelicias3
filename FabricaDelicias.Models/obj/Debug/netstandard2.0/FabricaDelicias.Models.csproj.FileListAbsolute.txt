@@ -4,6 +4,6 @@ C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.Models\bin\Debug\ne
 C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.Models\obj\Debug\netstandard2.0\FabricaDelicias.Models.csprojAssemblyReference.cache
 C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.Models\obj\Debug\netstandard2.0\FabricaDelicias.Models.AssemblyInfoInputs.cache
 C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.Models\obj\Debug\netstandard2.0\FabricaDelicias.Models.AssemblyInfo.cs
-C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.Models\obj\Debug\netstandard2.0\FabricaDelicias.Models.csproj.CoreCompileInputs.cache
 C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.Models\obj\Debug\netstandard2.0\FabricaDelicias.Models.dll
 C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.Models\obj\Debug\netstandard2.0\FabricaDelicias.Models.pdb
+C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.Models\obj\Debug\netstandard2.0\FabricaDelicias.Models.csproj.CoreCompileInputs.cache

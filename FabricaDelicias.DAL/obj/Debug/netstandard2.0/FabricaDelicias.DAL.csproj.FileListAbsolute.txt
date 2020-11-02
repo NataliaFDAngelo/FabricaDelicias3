@@ -6,7 +6,7 @@ C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.DAL\bin\Debug\netst
 C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.DAL\obj\Debug\netstandard2.0\FabricaDelicias.DAL.csprojAssemblyReference.cache
 C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.DAL\obj\Debug\netstandard2.0\FabricaDelicias.DAL.AssemblyInfoInputs.cache
 C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.DAL\obj\Debug\netstandard2.0\FabricaDelicias.DAL.AssemblyInfo.cs
-C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.DAL\obj\Debug\netstandard2.0\FabricaDelicias.DAL.csproj.CoreCompileInputs.cache
 C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.DAL\obj\Debug\netstandard2.0\FabricaDelicias.DAL.csproj.CopyComplete
 C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.DAL\obj\Debug\netstandard2.0\FabricaDelicias.DAL.dll
 C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.DAL\obj\Debug\netstandard2.0\FabricaDelicias.DAL.pdb
+C:\Users\natal\source\repos\FabricaDelicias3\FabricaDelicias.DAL\obj\Debug\netstandard2.0\FabricaDelicias.DAL.csproj.CoreCompileInputs.cache

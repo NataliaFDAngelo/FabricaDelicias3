@@ -19,7 +19,13 @@ namespace FabricaDelicias.DAL
 
         public void Incluir(Cliente cliente)
         {
-            throw new NotImplementedException();
+            DbHelper.ExecuteNonQuery("ClienteIncluir",
+                "@Id", cliente.Id,
+                "@Nome", cliente.Nome,
+                "@Email", cliente.Email,
+                "@Telefone", cliente.Telefone,
+                "@Cpf", cliente.Cpf
+                );
         }
 
         public Cliente ObterPorCPF(string cpf)
